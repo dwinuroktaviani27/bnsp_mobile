@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263341532880",
+    "project_id": "bnspmobile",
+    "storage_bucket": "bnspmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263341532880:android:1cf03085b0da94ad2d60d5",
+        "android_client_info": {
+          "package_name": "com.example.bnsp_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263341532880-7tjg55qhncq36h606j11hb7eeviamj16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe6xxapmKtSxy9wIppVe0ufDBnVUgYzQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263341532880-7tjg55qhncq36h606j11hb7eeviamj16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
